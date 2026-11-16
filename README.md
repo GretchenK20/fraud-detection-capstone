@@ -42,4 +42,4 @@ The biggest lesson so far is that the right metric matters as much as the right 
 
 ---
 
-**Tools:** Python, pandas, scikit-learn, LightGBM, matplotlib, **Claude**: reviewing my modeling decisions and providing feedback; all modeling decisions and interpretations are my own.*
+**Tools:** Python, pandas, scikit-learn, LightGBM, matplotlib, **Claude**: reviewing my modeling decisions and providing feedback; all modeling decisions and interpretations are my own.
